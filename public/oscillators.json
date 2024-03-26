@@ -1,0 +1,74 @@
+[
+    {
+        "id":"01",
+        "symbol":"N",
+        "title":"RSI(14)",
+        "total":"48.72",
+        "bg":"#D6DAC8",
+        "text_color":"#50727B"
+
+    },
+    {
+        "id":"02",
+        "symbol":"N",
+        "title":"Stoch.%K(14,3,3)",
+        "total":"36.18",
+        "bg":"#D6DAC8",
+        "text_color":"#50727B"
+
+    },
+    {
+        "id":"03",
+        "symbol":"N",
+        "title":"CCl(20)",
+        "total":"15.79",
+        "bg":"#D6DAC8",
+        "text_color":"#50727B"
+
+    },
+    {
+        "id":"04",
+        "symbol":"S",
+        "title":"Awesome Osc.",
+        "total":"-103.71",
+        "bg": "#FFBBBB",
+        "text_color": "#E72929"
+
+    },
+    {
+        "id":"05",
+        "symbol":"N",
+        "title":"Momentum(10)",
+        "total":"-328.85",
+        "bg":"#D6DAC8",
+        "text_color":"#50727B"
+
+    },
+    {
+        "id":"06",
+        "symbol":"S",
+        "title":"Macd(12,26,9)",
+        "total":"8.17",
+        "bg": "#FFBBBB",
+        "text_color": "#E72929"
+
+    },
+    {
+        "id":"07",
+        "symbol":"N",
+        "title":"Willams %Range(15)",
+        "total":"-64.04",
+        "bg":"#D6DAC8",
+        "text_color":"#50727B"
+
+    },
+    {
+        "id":"08",
+        "symbol":"N",
+        "title":"Ultimate Osc.(7,14,28)",
+        "total":"51.89",
+        "bg":"#D6DAC8",
+        "text_color":"#50727B"
+
+    }
+]

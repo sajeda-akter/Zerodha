@@ -1,0 +1,58 @@
+[
+  {
+    "id": "01",
+    "symbol": "B",
+    "title": "EMA(5)",
+    "total": "22023.93",
+    "bg": "#ACE2E1",
+    "text_color": "#008DDA"
+  },
+  {
+    "id": "02",
+    "symbol": "B",
+    "title": "SMA(5)",
+    "total": "21960.98",
+    "bg": "#ACE2E1",
+    "text_color": "#008DDA"
+  },
+  {
+    "id": "03",
+    "symbol": "S",
+    "title": "EMA(10)",
+    "total": "22053.49",
+    "bg": "#FFBBBB",
+    "text_color": "#E72929"
+  },
+  {
+    "id": "04",
+    "symbol": "B",
+    "title": "SMA(10)",
+    "total": "22036.40",
+    "bg": "#ACE2E1",
+    "text_color": "#008DDA"
+  },
+  {
+    "id": "05",
+    "symbol": "S",
+    "title": "EMA(20)",
+    "total": "22072.98",
+    "bg": "#FFBBBB",
+    "text_color": "#E72929"
+  },
+  {
+    "id": "06",
+    "symbol": "S",
+    "title": "SMA(20)",
+    "total": "23445.97",
+    "bg": "#FFBBBB",
+    "text_color": "#E72929"
+  },
+  {
+    "id": "07",
+    "symbol": "S",
+    "title": "EMA(30)",
+    "total": "22031.90",
+    "bg": "#FFBBBB",
+    "text_color": "#E72929"
+  }
+]

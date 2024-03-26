@@ -1,0 +1,7 @@
+.icons-open:hover p{
+    display: block;
+
+}
+.react-tooltip {
+    background-color: red; /* Your desired background color */
+}
